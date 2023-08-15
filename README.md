@@ -1,6 +1,6 @@
-Hi, I’m @NkMeta
-I’m interested in football, robotics and coding
-I’m currently learning python
+- Hi, I’m @NkMeta
+- I’m interested in football, robotics and coding
+- I’m currently learning python
 
 
 <!---
